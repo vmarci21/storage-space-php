@@ -1,0 +1,31 @@
+table {
+width: 100%;
+}
+
+.proress_alap {
+width: 100%;
+max-width: 540px;
+height: 26px;
+border: 1px solid #969696;
+border-radius: 3px;
+background: #CACACA;
+display: inline-block;
+}
+
+.proress_data {
+background: #1FA9E8;
+height: 26px;
+display: inline-block;
+margin: 0;
+float: left;
+}
+
+.proress_text {
+width: 99%;
+max-width: 538px;
+text-align: right;
+margin-top: -25px;
+margin-bottom: 10px;
+color: #969696;
+font-size: 0.9em;
+}
